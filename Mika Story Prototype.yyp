@@ -29,7 +29,7 @@
     {"id":{"name":"obj_dresser","path":"objects/obj_dresser/obj_dresser.yy",},},
     {"id":{"name":"obj_mika","path":"objects/obj_mika/obj_mika.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm_house_upstairs","path":"rooms/rm_house_upstairs/rm_house_upstairs.yy",},},
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},},
     {"id":{"name":"spr_basic_tiles","path":"sprites/spr_basic_tiles/spr_basic_tiles.yy",},},
     {"id":{"name":"spr_bed","path":"sprites/spr_bed/spr_bed.yy",},},
@@ -46,7 +46,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_house_upstairs","path":"rooms/rm_house_upstairs/rm_house_upstairs.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
